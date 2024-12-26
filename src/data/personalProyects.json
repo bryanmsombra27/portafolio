@@ -1,34 +1,26 @@
 [
-    {
-        "title": "ShadowStore",
-        "description": "Fue un proyecto con el cual realicé mis primeros pasos con el framework de Angular, aprendí las bases necesarias para realizar las interacciones de un crud utilizando como base arreglos de JavaScript.",
-        "link": "https://aqueous-hamlet-11042.herokuapp.com/",
-        "img": "/img/proyectos-personales/shadow-store.jpeg",
-        "alt": "shadowStore",
-        "tools":[
-            "angular"
-        ]
-    },
-    {
-        "title": "Frontend Store",
-        "description": "Fue un proyecto con el cual aprendí a realizar maquetación en HTML y CSS nativo, utilizando las propiedades de GRID para construir el diseño de una tienda de venta de productos.",
-        "link": "http://bryanochoa.alialvarado.com/",
-        "img": "/img/proyectos-personales/frontendStore.jpeg",
-        "alt": "Frontend Store",
-        "tools":[
-            "html-5",
-            "css-3"
-        ]
-    },
-    {
-        "title": "Shadow Technology",
-        "description": "Fue un proyecto con el cual reforce mi conocimiento en maquetación utilizando el framework de css conocido como Tailwind basado en clases de utilidades para crear los diferentes elementos que componen el sitio.",
-        "link": "https://steady-horse-9b8931.netlify.app/",
-        "img": "/img/proyectos-personales/shadowTechnology.jpeg",
-        "alt": "Shadow Technology",
-        "tools":[
-            "react",
-            "tailwindcss"
-        ]
-    }
+  {
+    "title": "Clipboard",
+    "description": "Fue un proyecto desarrollacon con tailwind css  y react que me sirvio como base para comprender la estructura del framework y crear  un diseño considerado un estandar en el ambito web.",
+    "link": "https://clipboardtailwind.netlify.app/",
+    "img": "/img/proyectos-personales/clipboard.png",
+    "alt": "clipboard",
+    "tools": ["react", "tailwindcss"]
+  },
+  {
+    "title": "Frontend Store",
+    "description": "Fue un proyecto con el cual aprendí a realizar maquetación en HTML y CSS nativo, utilizando las propiedades de GRID para construir el diseño de una tienda de venta de productos.",
+    "link": "https://classy-griffin-7bbd03.netlify.app/",
+    "img": "/img/proyectos-personales/frontendStore.jpeg",
+    "alt": "Frontend Store",
+    "tools": ["html-5", "css-3"]
+  },
+  {
+    "title": "Shadow Technology",
+    "description": "Fue un proyecto con el cual reforce mi conocimiento en maquetación utilizando el framework de css conocido como Tailwind basado en clases de utilidades para crear los diferentes elementos que componen el sitio.",
+    "link": "https://steady-horse-9b8931.netlify.app/",
+    "img": "/img/proyectos-personales/shadowTechnology.jpeg",
+    "alt": "Shadow Technology",
+    "tools": ["react", "tailwindcss"]
+  }
 ]

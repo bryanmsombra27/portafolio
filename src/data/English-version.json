@@ -1,137 +1,106 @@
 [
+  {
+    "title": "FullStack Developer",
+    "description": "I create API's for communication between backend and frontend and I develop web or mobile applications according to the needs of the project."
+  },
+  {
+    "welcome": "Hello! I'm Bryan Ochoa. Welcome to my portfolio web",
+    "description": "Since I started my journey in web development 4 years ago I have developed personal projects and 2 years working formally for companies developing web and mobile applications, below you can browse the work I have done."
+  },
 
-        {
-            "title":"Front End Developer",
-            "description":"I develop the web layout and perform the visual functionality of the application"
-        },
-        {
-            "welcome":"Hello! I'm Bryan Ochoa. Welcome to my portfolio web",
-            "description":" I started my journey in web development 4 years ago I have developed personal projects and recently graduated from university,I have beginning the search to get a job as a frontend developer.Below,  you can take a look at the projects  I have collaborated on."
-        },
+  [
+    {
+      "title": "Frontend Developer",
+      "description": "I enjoy creating the applications from my perspective and bringing to life the designs that come to mind.",
+      "subtitle": "Programming languages that I handle:",
+      "languages": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Jquery",
+        "TypeScript",
+        "SASS"
+      ],
+      "subtitle2": "Development tools:",
+      "webtools": [
+        "Angular",
+        "React",
+        "Flutter",
+        "Tailwind",
+        "BootStrap",
+        "Materialize",
+        "Git",
+        "GitHub",
+        "Visual Studio Code"
+      ]
+    },
+    {
+      "title": "Backend Developer",
+      "description": "I am skilled when it comes to solving problems focused on backend development.",
+      "subtitle": "Programming languages with which I have developed applications:",
+      "languages": ["NodeJS"],
+      "subtitle2": "Development tools:",
+      "webtools": ["Express", "MongoDB", "Mongoose", "Sequelize", "Heroku"]
+    },
+    {
+      "title": "Instructor",
+      "description": "In my spare time I enjoy teaching other future developers the web technologies that I know and that I have learned throughout my career as a developer.",
+      "subtitle": "Courses Taught:",
+      "languages": ["Vainilla JavaScript", "APIS creation", "NodeJS"],
+      "subtitle2": "Development tools: ",
+      "webtools": [
+        "BootStrap",
+        "Tailwind",
+        "Materialize",
+        "Git",
+        "GitHub",
+        "Visual Studio Code"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "GasPrices",
+      "description": "It was a project with which I graduated as an engineer, it was done for the company gasosur which consists of showing the gasoline prices for the state of Guerrero using the data provided by the government portal.",
+      "link": "https://stellar-granita-49d347.netlify.app/#/",
+      "img": "/img/proyectos-empresas/gasprices.jpeg",
+      "alt": "gasprices",
+      "tools": ["angular", "nodejs", "express"]
+    },
+    {
+      "title": "QRUD",
+      "description": "It was a project with which I graduated as an engineer, was made for the company gasosur which consists in the registration of users and then use their information to generate a QR code which after being scanned recognizes the user information and displays their data on a form to subsequently perform the billing process.",
+      "link": "https://frosty-visvesvaraya-177bf5.netlify.app/#/login",
+      "img": "/img/proyectos-empresas/QRUD.jpeg",
+      "alt": "QRUD",
+      "tools": ["mongodb", "express", "angular", "nodejs"]
+    }
+  ],
 
-        [
-            {
-                "title": "Frontend Developer",
-                "description": "I enjoy creating the applications from my perspective and bringing to life the designs that come to mind.",
-                "subtitle": "Programming languages that I handle:",
-                "languages": [
-                    "HTML",
-                    "CSS",
-                    "JavaScript",
-                    "Jquery",
-                    "TypeScript",
-                    "SASS"    
-                 
-                ],
-                "subtitle2": "Development tools:",
-                "webtools": [
-                    "Angular",
-                    "React",
-                    "Tailwind",
-                    "BootStrap",
-                    "Materialize",
-                    "Git",
-                    "GitHub",
-                    "Visual Studio Code"
-                ]
-            },
-            {
-                "title": "Backend Developer",
-                "description": "I am skilled when it comes to solving problems focused on backend development.",
-                "subtitle": "Programming languages with which I have developed applications:",
-                "languages": [
-                    "NodeJS"
-                ],
-                "subtitle2": "Development tools:",
-                "webtools": [
-                    "Express",
-                    "MongoDB",
-                    "Mongoose",
-                    "Sequelize",
-                    "Heroku"
-                ]
-            },
-            {
-                "title": "Instructor",
-                "description": "In my spare time I enjoy teaching other future developers the web technologies that I know and that I have learned throughout my career as a developer.",
-                "subtitle": "Courses Taught:",
-                "languages": [
-                    "Vainilla JavaScript",
-                    "APIS creation",
-                    "NodeJS"
-                ],
-                "subtitle2": "Development tools: ",
-                "webtools": [
-                    "BootStrap",
-                    "Tailwind",
-                    "Materialize",
-                    "Git",
-                    "GitHub",
-                    "Visual Studio Code"
-                ]
-            }
-        ],
-        [
-            {
-            "title":"GasPrices",
-            "description":"It was a project with which I graduated as an engineer, it was done for the company gasosur which consists of showing the gasoline prices for the state of Guerrero using the data provided by the government portal.",
-            "link":"https://stellar-granita-49d347.netlify.app/#/",
-            "img":"/img/proyectos-empresas/gasprices.jpeg",
-            "alt":"gasprices",
-            "tools":[
-                "angular",
-                "nodejs",
-                "express"
-            ]
-        },
-        {
-            "title":"QRUD",
-            "description":"It was a project with which I graduated as an engineer, was made for the company gasosur which consists in the registration of users and then use their information to generate a QR code which after being scanned recognizes the user information and displays their data on a form to subsequently perform the billing process.",
-            "link":"https://frosty-visvesvaraya-177bf5.netlify.app/#/login",
-            "img":"/img/proyectos-empresas/QRUD.jpeg",
-            "alt":"QRUD",
-            "tools":[
-                "mongodb",
-                "express",
-                "angular",
-                "nodejs"
-            ]
-        }
-        ],
-
-        [
-            {
-                "title": "ShadowStore",
-                "description": "It was a project with which I made my first steps with the Angular framework, I learned the basics needed to perform the interactions of a crud using JavaScript arrays as a base.",
-                "link": "https://aqueous-hamlet-11042.herokuapp.com/",
-                "img": "/img/proyectos-personales/shadow-store.jpeg",
-                "alt": "shadowStore",
-                "tools":[
-                    "angular"
-                ]
-            },
-            {
-                "title": "Frontend Store",
-                "description": "It was a project with which I learned how to do layout in HTML and native CSS, using GRID properties to build the design of a store selling products.",
-                "link": "http://bryanochoa.alialvarado.com/",
-                "img": "/img/proyectos-personales/frontendStore.jpeg",
-                "alt": "Frontend Store",
-                "tools":[
-                    "html-5",
-                    "css-3"
-                ]
-            },
-            {
-                "title": "Shadow Technology",
-                "description": "It was a project with which I reinforced my knowledge in layout using the css framework known as Tailwind based on utility classes to create the different elements that make up the site.",
-                "link": "https://steady-horse-9b8931.netlify.app/",
-                "img": "/img/proyectos-personales/shadowTechnology.jpeg",
-                "alt": "Shadow Technology",
-                "tools":[
-                    "react",
-                    "tailwindcss"
-                ]
-            }
-        ]
-    
+  [
+    {
+      "title": "Clipboard",
+      "description": "It was a project developed with tailwind css and react that served as a basis for me to understand the structure of the framework and create a design considered a standard in the web environment.",
+      "link": "https://clipboardtailwind.netlify.app/",
+      "img": "/img/proyectos-personales/clipboard.png",
+      "alt": "clipboard",
+      "tools": ["react", "tailwindcss"]
+    },
+    {
+      "title": "Frontend Store",
+      "description": "It was a project with which I learned how to do layout in HTML and native CSS, using GRID properties to build the design of a store selling products.",
+      "link": "https://classy-griffin-7bbd03.netlify.app/",
+      "img": "/img/proyectos-personales/frontendStore.jpeg",
+      "alt": "Frontend Store",
+      "tools": ["html-5", "css-3"]
+    },
+    {
+      "title": "Shadow Technology",
+      "description": "It was a project with which I reinforced my knowledge in layout using the css framework known as Tailwind based on utility classes to create the different elements that make up the site.",
+      "link": "https://steady-horse-9b8931.netlify.app/",
+      "img": "/img/proyectos-personales/shadowTechnology.jpeg",
+      "alt": "Shadow Technology",
+      "tools": ["react", "tailwindcss"]
+    }
+  ]
 ]

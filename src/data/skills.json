@@ -1,62 +1,50 @@
 [
-    {
-        "title": "Desarrollador Frontend",
-        "description": "Disfruto crear las aplicaciones desde mi perspectiva y traer a la vida los diseños que se me ocurren",
-        "subtitle": "Lenguajes de programación que manejo:",
-        "languages": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Jquery",
-            "TypeScript",
-            "SASS"
-    
-        ],
-        "subtitle2": "Herramientas para el desarrollo: ",
-        "webtools": [
-            "Angular",
-            "React",
-            "Tailwind",
-            "BootStrap",
-            "Materialize",
-            "Git",
-            "GitHub",
-            "Visual Studio Code"
-        ]
-    },
-    {
-        "title": "Desarrollador Backend",
-        "description": "Soy habil cuando se trata de resolver problemas enfocados al desarrollo backend",
-        "subtitle": "Lenguajes de programación con los que he desarrollado aplicaciones:",
-        "languages": [
-            "NodeJS"
-        ],
-        "subtitle2": "Herramientas para el desarrollo: ",
-        "webtools": [
-            "Express",
-            "MongoDB",
-            "Mongoose",
-            "Sequelize",
-            "Heroku"
-        ]
-    },
-    {
-        "title": "Instructor",
-        "description": "En mis tiempos libres disfruto por enseñar a otros futuros desarrolladores las tecnologias web que conozco y que a su vez voy aprendiendo a lo largo de mi carrera como desarrollador",
-        "subtitle": "Cursos Impartidos:",
-        "languages": [
-            "Vainilla JavaScript",
-            "Creación de APIS",
-            "NodeJS"
-        ],
-        "subtitle2": "Herramientas para el desarrollo: ",
-        "webtools": [
-            "BootStrap",
-            "Tailwind",
-            "Materialize",
-            "Git",
-            "GitHub",
-            "Visual Studio Code"
-        ]
-    }
+  {
+    "title": "Desarrollador Frontend",
+    "description": "Disfruto crear las aplicaciones desde mi perspectiva y traer a la vida los diseños que se me ocurren",
+    "subtitle": "Lenguajes de programación que manejo:",
+    "languages": ["HTML", "CSS", "JavaScript", "Jquery", "TypeScript", "SASS"],
+    "subtitle2": "Herramientas para el desarrollo: ",
+    "webtools": [
+      "Angular",
+      "React",
+      "Flutter",
+      "Tailwind",
+      "BootStrap",
+      "Materialize",
+      "Git",
+      "GitHub",
+      "Visual Studio Code"
+    ]
+  },
+  {
+    "title": "Desarrollador Backend",
+    "description": "Soy habil cuando se trata de resolver problemas enfocados al desarrollo backend",
+    "subtitle": "Lenguajes de programación con los que he desarrollado aplicaciones:",
+    "languages": ["NodeJS"],
+    "subtitle2": "Herramientas para el desarrollo: ",
+    "webtools": [
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Sequelize",
+      "Heroku",
+      "GraphQL"
+    ]
+  },
+  {
+    "title": "Instructor",
+    "description": "En mis tiempos libres disfruto por enseñar a otros futuros desarrolladores las tecnologias web que conozco y que a su vez voy aprendiendo a lo largo de mi carrera como desarrollador",
+    "subtitle": "Cursos Impartidos:",
+    "languages": ["Vainilla JavaScript", "Creación de APIS", "NodeJS"],
+    "subtitle2": "Herramientas para el desarrollo: ",
+    "webtools": [
+      "BootStrap",
+      "Tailwind",
+      "Materialize",
+      "Git",
+      "GitHub",
+      "Visual Studio Code"
+    ]
+  }
 ]
