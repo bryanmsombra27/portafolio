@@ -62,7 +62,7 @@
     {
       "title": "GasPrices",
       "description": "It was a project with which I graduated as an engineer, it was done for the company gasosur which consists of showing the gasoline prices for the state of Guerrero using the data provided by the government portal.",
-      "link": "https://stellar-granita-49d347.netlify.app/#/",
+      "link": "https://gaspricesv1.netlify.app/#/",
       "img": "/img/proyectos-empresas/gasprices.jpeg",
       "alt": "gasprices",
       "tools": ["angular", "nodejs", "express"]
