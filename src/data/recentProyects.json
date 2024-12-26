@@ -10,7 +10,7 @@
   {
     "title": "QRUD",
     "description": "Fue un proyecto con el cual me recibí como ingeniero,  fue realizado para la empresa gasosur que consiste en el registro de usuarios para posteriormente utilizar su información para generar un código QR con el cual tras ser escaneado reconoce la información del usuario y muestra sus datos en un formulario para posteriormente realizar el proceso de facturación.",
-    "link": "https://frosty-visvesvaraya-177bf5.netlify.app/#/login",
+    "link": "https://golden-mousse-8bcc0e.netlify.app/#/login",
     "img": "/img/proyectos-empresas/QRUD.jpeg",
     "alt": "QRUD",
     "tools": ["mongodb", "express", "angular", "nodejs"]

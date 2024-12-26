@@ -70,7 +70,7 @@
     {
       "title": "QRUD",
       "description": "It was a project with which I graduated as an engineer, was made for the company gasosur which consists in the registration of users and then use their information to generate a QR code which after being scanned recognizes the user information and displays their data on a form to subsequently perform the billing process.",
-      "link": "https://frosty-visvesvaraya-177bf5.netlify.app/#/login",
+      "link": "https://golden-mousse-8bcc0e.netlify.app/#/login",
       "img": "/img/proyectos-empresas/QRUD.jpeg",
       "alt": "QRUD",
       "tools": ["mongodb", "express", "angular", "nodejs"]
