@@ -22,5 +22,21 @@
     "img": "/img/proyectos-personales/shadowTechnology.jpeg",
     "alt": "Shadow Technology",
     "tools": ["react", "tailwindcss"]
+  },
+  {
+    "title": "Shadow Inventory System",
+    "description": "Es una platilla desarrollada en react con el objetivo de fungir como un sistema de inventarios adaptable para las necesidades del cliente.",
+    "link": "https://sprightly-starlight-e00582.netlify.app/",
+    "img": "/img/proyectos-personales/sistema-inventario.png",
+    "alt": "Shadow Inventory System",
+    "tools": ["react", "tailwindcss"]
+  },
+  {
+    "title": "Shadow Music",
+    "description": "Es aplicación web desarrollada en react utilizando la API de Spotify",
+    "link": "https://shadowmusicapp.netlify.app/",
+    "img": "/img/proyectos-personales/shadow-music.png",
+    "alt": "Shadow Music",
+    "tools": ["react", "tailwindcss"]
   }
 ]
