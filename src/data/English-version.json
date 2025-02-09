@@ -117,6 +117,14 @@
       "img": "/img/proyectos-personales/shadow-music.png",
       "alt": "Shadow Music",
       "tools": ["react", "tailwindcss"]
+    },
+    {
+      "title": "Shadow POS",
+      "description": "It is a point of sale developed in Next and Nest implementing the tailwind css framework and the use of the new Next design pattern.",
+      "link": "https://shadow-pos-frontend-o6982043j-bryanmsombra27s-projects.vercel.app/1",
+      "img": "/img/proyectos-personales/shadow-pos.png",
+      "alt": "Shadow POS",
+      "tools": ["nestjs", "tailwindcss", "nextjs"]
     }
   ]
 ]

@@ -12,9 +12,9 @@
       "Tailwind",
       "BootStrap",
       "Materialize",
+      "Next",
       "Git",
-      "GitHub",
-      "Visual Studio Code"
+      "GitHub"
     ]
   },
   {
@@ -29,7 +29,9 @@
       "Mongoose",
       "Sequelize",
       "Heroku",
-      "GraphQL"
+      "GraphQL",
+      "Nest",
+      "Docker"
     ]
   },
   {
@@ -38,13 +40,6 @@
     "subtitle": "Cursos Impartidos:",
     "languages": ["Vainilla JavaScript", "Creación de APIS", "NodeJS"],
     "subtitle2": "Herramientas para el desarrollo: ",
-    "webtools": [
-      "BootStrap",
-      "Tailwind",
-      "Materialize",
-      "Git",
-      "GitHub",
-      "Visual Studio Code"
-    ]
+    "webtools": ["BootStrap", "Tailwind", "Materialize", "Git", "GitHub"]
   }
 ]
