@@ -1,19 +1,27 @@
 [
   {
-    "title": "Clipboard",
-    "description": "Fue un proyecto desarrollacon con tailwind css  y react que me sirvio como base para comprender la estructura del framework y crear  un diseño considerado un estandar en el ambito web.",
-    "link": "https://clipboardtailwind.netlify.app/",
-    "img": "/img/proyectos-personales/clipboard.png",
-    "alt": "clipboard",
-    "tools": ["react", "tailwindcss"]
+    "title": "Shadow Shop",
+    "description": "Es un proyecto de una tienda online desarrollada con nextjs, tailwind, postgres SQL  y la libreria Auth.js esta ultima gestionando el apartado de seguridad de la aplicacion implementando inicio de sesion con el Google e integrando la pasarela de pagos de PayPal.",
+    "link": "https://shadow-shop.vercel.app/",
+    "img": "/img/proyectos-personales/shadow-shop.png",
+    "alt": "Shadow Shop",
+    "tools": ["nextjs", "tailwindcss", "postgresql"]
   },
   {
-    "title": "Frontend Store",
-    "description": "Fue un proyecto con el cual aprendí a realizar maquetación en HTML y CSS nativo, utilizando las propiedades de GRID para construir el diseño de una tienda de venta de productos.",
-    "link": "https://classy-griffin-7bbd03.netlify.app/",
-    "img": "/img/proyectos-personales/frontendStore.jpeg",
-    "alt": "Frontend Store",
-    "tools": ["html-5", "css-3"]
+    "title": "Shadow POS",
+    "description": "Es un punto de venta desarrollado en Next  y Nest implementando el framework de tailwind css y el uso del nuevo patron de diseño de Next",
+    "link": "https://shadow-pos-frontend-o6982043j-bryanmsombra27s-projects.vercel.app/1",
+    "img": "/img/proyectos-personales/shadow-pos.png",
+    "alt": "Shadow POS",
+    "tools": ["nestjs", "tailwindcss", "nextjs"]
+  },
+  {
+    "title": "Shadow Music",
+    "description": "Es aplicación web desarrollada en react utilizando la API de Spotify",
+    "link": "https://shadowmusicapp.netlify.app/",
+    "img": "/img/proyectos-personales/shadow-music.png",
+    "alt": "Shadow Music",
+    "tools": ["react", "tailwindcss"]
   },
   {
     "title": "Shadow Technology",
@@ -31,20 +39,21 @@
     "alt": "Shadow Inventory System",
     "tools": ["react", "tailwindcss"]
   },
+
   {
-    "title": "Shadow Music",
-    "description": "Es aplicación web desarrollada en react utilizando la API de Spotify",
-    "link": "https://shadowmusicapp.netlify.app/",
-    "img": "/img/proyectos-personales/shadow-music.png",
-    "alt": "Shadow Music",
+    "title": "Clipboard",
+    "description": "Fue un proyecto desarrollacon con tailwind css  y react que me sirvio como base para comprender la estructura del framework y crear  un diseño considerado un estandar en el ambito web.",
+    "link": "https://clipboardtailwind.netlify.app/",
+    "img": "/img/proyectos-personales/clipboard.png",
+    "alt": "clipboard",
     "tools": ["react", "tailwindcss"]
   },
   {
-    "title": "Shadow POS",
-    "description": "Es un punto de venta desarrollado en Next  y Nest implementando el framework de tailwind css y el uso del nuevo patron de diseño de Next",
-    "link": "https://shadow-pos-frontend-o6982043j-bryanmsombra27s-projects.vercel.app/1",
-    "img": "/img/proyectos-personales/shadow-pos.png",
-    "alt": "Shadow POS",
-    "tools": ["nestjs", "tailwindcss", "nextjs"]
+    "title": "Frontend Store",
+    "description": "Fue un proyecto con el cual aprendí a realizar maquetación en HTML y CSS nativo, utilizando las propiedades de GRID para construir el diseño de una tienda de venta de productos.",
+    "link": "https://classy-griffin-7bbd03.netlify.app/",
+    "img": "/img/proyectos-personales/frontendStore.jpeg",
+    "alt": "Frontend Store",
+    "tools": ["html-5", "css-3"]
   }
 ]
